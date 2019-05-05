@@ -1,8 +1,21 @@
 {
-    "name": "5d-watch/game-of-thrones-season-8-episode-5-online-tv-hbo",
-    "description": "[NEW-OFFICIAL] !! Watch Game of Thrones Season 8 Episode 5 Leaked Online Putlocker Free Full(((CLICK LINK BELOW)))",
-    "require": {
-        "php": "^7.2",
-        "another-vendor/package": "1.*"
-    }
+    "name": "got-4/game-of-thrones-season-8-episode-4-online-tv-hbo",
+    "description": "WATCH ONLINE Game of Thrones Season 8 Episodes 4 Full Free S08E03 WATCH FULL EPISODES HERE",
+    "homepage": "https://github.com/dujexopuzz/gothb/",
+	"keywords": ["Game of Thrones Season 8 Episodes 4 Watch Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Watch Game Of Thrones S08 E04 Online",
+            "homepage": "http://bit.ly/GOT-S8E4Online",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
 }
